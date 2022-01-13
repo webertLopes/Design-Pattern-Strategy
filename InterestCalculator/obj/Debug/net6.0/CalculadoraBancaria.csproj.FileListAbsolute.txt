@@ -1,0 +1,15 @@
+C:\TFS\Design-Pattern-Strategy\InterestCalculator\bin\Debug\net6.0\CalculadoraBancaria.exe
+C:\TFS\Design-Pattern-Strategy\InterestCalculator\bin\Debug\net6.0\CalculadoraBancaria.deps.json
+C:\TFS\Design-Pattern-Strategy\InterestCalculator\bin\Debug\net6.0\CalculadoraBancaria.runtimeconfig.json
+C:\TFS\Design-Pattern-Strategy\InterestCalculator\bin\Debug\net6.0\CalculadoraBancaria.dll
+C:\TFS\Design-Pattern-Strategy\InterestCalculator\bin\Debug\net6.0\ref\CalculadoraBancaria.dll
+C:\TFS\Design-Pattern-Strategy\InterestCalculator\bin\Debug\net6.0\CalculadoraBancaria.pdb
+C:\TFS\Design-Pattern-Strategy\InterestCalculator\obj\Debug\net6.0\CalculadoraBancaria.csproj.AssemblyReference.cache
+C:\TFS\Design-Pattern-Strategy\InterestCalculator\obj\Debug\net6.0\CalculadoraBancaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\TFS\Design-Pattern-Strategy\InterestCalculator\obj\Debug\net6.0\CalculadoraBancaria.AssemblyInfoInputs.cache
+C:\TFS\Design-Pattern-Strategy\InterestCalculator\obj\Debug\net6.0\CalculadoraBancaria.AssemblyInfo.cs
+C:\TFS\Design-Pattern-Strategy\InterestCalculator\obj\Debug\net6.0\CalculadoraBancaria.csproj.CoreCompileInputs.cache
+C:\TFS\Design-Pattern-Strategy\InterestCalculator\obj\Debug\net6.0\CalculadoraBancaria.dll
+C:\TFS\Design-Pattern-Strategy\InterestCalculator\obj\Debug\net6.0\ref\CalculadoraBancaria.dll
+C:\TFS\Design-Pattern-Strategy\InterestCalculator\obj\Debug\net6.0\CalculadoraBancaria.pdb
+C:\TFS\Design-Pattern-Strategy\InterestCalculator\obj\Debug\net6.0\CalculadoraBancaria.genruntimeconfig.cache
